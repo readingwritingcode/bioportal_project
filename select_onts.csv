@@ -1,0 +1,545 @@
+Search term,Ontology,"
+Description",Category,Prioridad dentro de la categoría,Otros términos asociados,,Convenciones,,Sensibiltiy,Specificity,Pertinencia? - Relevancia,Nivel en la ontología
+Betacoronavirus,NHC,"A genus of enveloped and spherical positive sense ssRNA viruses in the subfamily Coronavirinae of the family Coronaviridae with a diameter of about 120 nm. Betacoronaviruses have a nonopartite, linear genome of 27-32 kb. Bats are the most common reservoir for betacoronaviruses.","Organism, RNA Virus,Virus,  ",ALTA,Betacoronaviruses-Tylonycteris bat coronavirus HKU4-Pipistrellus bat coronavirus HKU5-Human coronavirus HKU1-HCoV-HKU1-Rousettus bat coronavirus HKU9,,Alta,Tiene un alto nivel de especificidad,,Alta,Pertinencia,6/7 - Específico
+,	MESH,A genus of the family CORONAVIRIDAE which causes respiratory or gastrointestinal disease in a variety of mostly mammals. Human betacoronaviruses include HUMAN ENTERIC CORONAVIRUS; HUMAN CORONAVIRUS OC43; MERS VIRUS; and SARS VIRUS. Members have either core transcription regulatory sequences of 5'-CUAAAC-3' or 5'-CUAAAC-3' and mostly have no ORF downstream to the N protein gene.,"Betacoronavirus 1, SARS Virus",ALTA,"Human enteric coronavirus
+Human enteric coronaviruses
+Porcine hemagglutinating encephalomyelitis virus
+Encephalomyelitis Virus, Porcine Hemagglutinating
+Equine coronavirus
+Equine coronaviruses",,,,,,,
+Coronavirus Infections,MESH,"Virus diseases caused by the CORONAVIRUS genus. Some specifics include transmissible enteritis of turkeys (ENTERITIS, TRANSMISSIBLE, OF TURKEYS); FELINE INFECTIOUS PERITONITIS; and transmissible gastroenteritis of swine (GASTROENTERITIS, TRANSMISSIBLE, OF SWINE).
+",,ALTA,"Coronavirus InfectionCoronavirus Infection	
+Infection, Coronavirus	
+Infections, Coronavirus	
+Middle East Respiratory Syndrome	
+MERS (Middle East Respiratory Syndrome)	",,,,,,,
+Health Services Needs and Demand,MESH,Health services required by a population or community as well as the health services that the population or community is able and willing to pay for.,Surge Capacity,ALTA,"Needs and Demand, Health Services
+Needs
+Target Population
+Population, Target
+Populations, Target
+Target Populations
+Health Services Needs
+Health Services Need
+Need, Health Services
+Needs, Health Services",,,,,,,
+Severe acute respiratory syndrome coronavirus 2,COVID-19,The coronavirus (Severe acute respiratory syndrome coronavirus 2 of the genus Betacoronavirus) that is the causative agent of COVID-19,,ALTA,"2019-nCoV
+Wuhan coronavirus
+SARS-CoV-2
+2019 novel coronavirus
+COVID-19 virus
+coronavirus disease 2019 virus
+COVID19 virus
+Wuhan seafood market pneumonia virus",,,,,,,
+Severity of Illness Index ,MESH,"Tool for bedside evaluation based on five physiological parameters: SYSTOLIC PRESSURE, PULSE, RESPIRATORY RATE, BODY TEMPERATURE and AVPU (alert, voice, pain, unresponsive) score.",Early Warning Score,ALTA,"Score, Early Warning
+Early Warning Scores
+Scores, Early Warning
+Warning Scores, Early",,,,,,,
+Sensitivity and Specificity,MESH,"A graphic means for assessing the ability of a screening test to discriminate between healthy and diseased persons; may also be used in other studies, e.g., distinguishing stimuli responses as to a faint stimuli or nonstimuli.",ROC Curve,ALTA,"Curves, ROC",,,,,,,
+transmission process,	HPIO,"Droplet spread transmission is a direct transmission process during which the pathogen is transmitted from a reservoir, source or host to another host by spray of aerosols over a short distance, spray from sneezing, coughing or talking.",droplet spread transmission process,ALTA,,,,,,,,
+Airborne transmission ,SNOMEDCT,Airborne transmission,Airborne transmission,ALTA,,,,,,,,
+transmission ,MESH,Used with diseases for studies of the modes of transmission.,transmission ,ALTA,"Transmission routes, transmission rates, outbreak ",,,,,,,
+attack rate,OCHV,attack rate,attack rate,ALTA,attack rates,,,,,,,
+Testing,PREMEDONTO,"        
+A procedure for critical evaluation.",Testing,ALTA,Testing,,,,,,,
+Clinical Testing,PREMEDONTO,Small-scale testing (usually on SBIRs) of new technology in a small group of patients or normal volunteers. Does not meet the rigorous criteria of a clinical trial.,Clinical Testing,ALTA,Clinical Testing,,,,,,,
+Validation,PREMEDONTO,The act of validating; finding or testing the truth of something.,Validation,ALTA,"validation
+validity
+Validation",,,,,,,
+general symptom,COVID-19,"Any weakening or degeneration, especially through lack of use.","Atrophy 
+chills
+end-organ dysfunction
+inflammation",ALTA,"Atrophy
+
+ATROPHY rigors",,,,,,,
+multiple organ failure,COVID-19,Complete impairment of two or more organs or organ systems.,multiple organ failure,ALTA,"mortality , ",,,,,,,
+severe symptom,COVID-19,severe symptom,severe symptom,ALTA,severe symptom,,,,,,,
+respiratory system and chest symptom,COVID-19,"	
+A symptom is a perceived change in function, sensation, loss, disturbance or appearance reported by a patient indicative of a disease.","cough
+Expectorate
+hemoptysis
+Spacerrespiratory abnormality 
+Some Shortness of Breath
+Sore Throat
+sputum
+pleural effusion",ALTA,,,,,,,,
+cardiovascular system symptom,COVID-19,"	
+A symptom is a perceived change in function, sensation, loss, disturbance or appearance reported by a patient indicative of a disease.","arrhythmia
+ 
+heart failure
+ 
+hemorrhage
+ 
+myocarditis",ALTA,"fluctuation of heart rate
+heart rhythm symptom
+abnormal heart rhythm
+dysrhythmia
+abnormal heart beat",,,,,,,
+digestive system symptom,COVID-19,,diarrhea,ALTA,,,,,,,,
+neurological and physiological symptom,COVID-19,,"fatigue
+fever
+malaise",ALTA,,,,,,,,
+Social Distancing,NCIT,The practice of keeping a safe space between yourself and other people.,,ALTA,"Social Distancing
+Physical Distancing
+Social Distancing or Physical Distancing",,,,,,,
+remdesivir,CIDO,"	
+A carboxylic ester resulting from the formal condensation of the carboxy group of N-[(S)-{[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl]methoxy}(phenoxy)phosphoryl]-L-alanine with the hydroxy group of 2-ethylbutan-1-ol. A broad-spectrum antiviral prodrug with potent in vitro antiviral activity against a diverse panel of RNA viruses such as Ebola virus, MERS-CoV and SARS-CoV. It is currently in Phase III clinical trials for the treatment of Covid-19 in adults.","Antiviral agents
+antiviral drug
+anticoronaviral agent",ALTA,,,,,,,,
+mechanical ventilation,COVID-19 ,A medical intervention that is a life-support system designed to replace or support normal ventilatory lung function,"
+medical intervention
+Drug Development
+Drug Repositioning
+virus elimination",ALTA,"Respiration Artificial
+Artificial Respiration
+Artificial Respirations",,,,,,,
+COVID-19 suppression,COVID-19 ,Strategies for mitigation and suppression of COVID -19.,"apex
+clusters of COVID-19
+endemic
+epidemic
+Epidemiological Factors
+infection in population
+morbidity
+Mortality
+Older Population
+outbreak
+Pandemics",ALTA,"Older Populations
+Mitigation",,,,,,,
+COVID-19 Convalescent Plasma,NCIT,"Plasma that has been collected from patients who have recovered from the novel coronavirus disease, COVID-19. This plasma contains antibodies developed against the SARS-CoV-2 virus and is being investigated for the treatment of COVID-19.","PF24 Plasma
+PF24RT24 Plasma
+Plasma, Cryoprecipitated Reduced
+Recovered Plasma
+Single Donor Plasma
+Source Plasma
+Therapeutic Exchange Plasma",ALTA,Immunizations Passive,,,,,,,
+Herd Immunity,NCIT,"Immunity (via exposure to a pathogen or via vaccination) for a majority of the individuals in a community that serves to protect a naïve segment of that same population who cannot receive vaccination (contraindicated) and is therfore especially vulnerable to disease. The effect is described by the epidemiological principle that if immunity (via successful vaccination) was delivered at random and if members of a population mixed at random, such that on average each individual contacted R0 individuals in a manner sufficient to transmit the infection, then incidence of the infection would decline if the proportion immune exceeded (R0 - 1)/R0, or 1 -1/R0, where R0 is the basic reproductive number.","Humoral Immunity
+Mucosal Immunity
+Cytokine Signaling
+SpacerCytokine Signaling Process
+SpacerColony Stimulating Factor Signaling Process
+Interferon Signaling Process
+SpacerInterleukin Signaling Process
+",ALTA,"Cytokine Signal Transduction
+Colony Stimulating Factor Activation
+Colony Stimulating Factor Signaling Process
+Interferon Signaling Process
+",,,,,,,
+COVID-19 RT-PCR assay,CIDO,Sin descripción,"
+AIT Laboratories SARS-CoV-2 Assay
+Altru Dx SARS-CoV-2 RT-PCR assay
+Baptist Health Care COVID-19 RT-PCR Test
+Biocerna SARS-CoV-2 Test
+CDI Enhanced COVID-19 Test
+Childrens-Altona-SARS-CoV-2 Assay
+CHOP SARS-CoV-2 RT-PCR test
+CirrusDx SARS-CoV-2 Assay
+Diatherix Eurofins SARS-CoV-2 PCR Test
+Exact Sciences Laboratory SARS-CoV-2 Test
+Integrity Laboratories SARS-CoV-2 Assay
+Mayo Clinic SARS-CoV-2 Molecular Detection Assay
+MGH COVID-19 qPCR assay
+MicroGen DX COVID-19 Key
+Nationwide Children’s Hospital SARS-CoV-2 Assay
+",ALTA,"Highly Sensitive and Specific COVID-19
+Sensitive and Specific COVID-19
+diagnosing coronavirus disease 2019",,,,,,,
+hospital stay ,MESH,The subject or patient has been admitted as an inpatient to a hospital.,"Clinical Management
+Hospitalization",ALTA,"Inform Prescriber
+Provide Patient with Materials
+Receive Counseling
+Review Healthcare Training or Educational Materials
+Train Staff about Medication Use Process
+Verify Safe Use Conditions
+Patient Admission
+Patient Discharge
+Patient Readmission
+Patient Transfer",,,,,,,
+COVID-19 vaccine,VO,Sin descripción,"Ad5-nCoV vaccine
+LPN-SARS-Cov-2 vaccine
+PiCoVacc vaccine
+RBD-CuMVTT vaccine
+Ad41.MERS vaccine
+Ad5.MERS-S vaccine
+Ad5.MERS-S1 vaccine
+ChAdOx1-MERS-S vaccine
+Inactivated whole MERS-CoV (IV) vaccine with CpG and Alum
+MERS England1 S DNA + England1 S protein subunit vaccine
+MERS England1 S DNA Vaccine
+MERS England1 S1 protein subunit Vaccine
+MERS GLS-5300 vaccine
+MERS rNTD vaccine
+MERS rRBD plus alum vaccine
+MERS-CoV pcDNA3.1-S1 DNA vaccine
+MERS-CoV S protein with alum and CpG adjuvant
+MERS-CoV S vaccine adjuvanted with CpG and Alum
+MVA-MERS vaccine
+MVA-MERS-S vaccine
+MVvac2-MERS-N vaccine
+MVvac2-MERS-S(H) vaccine
+MVvac2-MERS-solS vaccine
+VRP-MERS-N vaccine
+VSVΔG-MERS vaccine-CoV vaccine
+
+ 
+CRT-N SARS vaccine
+inactivated whole (formalin and UV radiation) SARS-CoV vaccine
+RBD-rAAV-SARS-CoV
+RBD-rAAV-SARS-CoV prime/RBD-specific T cell peptide boost
+rDNA-expressed S SARS protein vaccine
+recombinant SARS DNA spike protein vaccine
+Recombinant SARS spike polypeptide vaccine
+rMV- SARS-CoV -S/Ssol
+rMV-S + rMV-N vaccine 
+rSARS-CoV-ΔE vaccine
+rVV-SARS vaccine
+SARS Ad S/N vaccine
+SARS ADS-MVA vaccine
+SARS CTLA4-S DNA vaccine
+SARS M protein DNA vaccine
+SARS MA-ExoN vaccine
+SARS MVA/S vaccine
+SARS N + SARS M DNA vaccine
+SARS N protein DNA vaccine
+SARS NDV-BC/S vaccine
+SARS NDV-VF/S vaccine
+SARS rMA15-ΔE vaccine
+SARS Subunit Spike Protein Vaccine
+SARS tPA-S DNA vaccine
+SARS-CoV Baculovirus S protein Vaccine
+SARS-CoV E gene mutant vaccine
+SARS-CoV pCI-N DNA vaccine
+UV-Inactivated SARS + TLR agonist vaccine
+UV-Inactivated SARS vaccine
+Viral-like-particle S-MHV SARS vaccine
+VRC-SRSDNA015-00-VP vaccine
+VRP-SARS-N vaccine
+β-propiolactone-inactivated SARS-CoV vaccine",ALTA,,,,,,,,
+Critical care,MESH,"Advanced and highly specialized care provided to medical or surgical patients whose conditions are life-threatening and require comprehensive care and constant monitoring. It is usually administered in specially equipped units of a health care facility.
+
+Health care provided to a critically ill patient during a medical emergency or crisis.","Delayed Diagnosis
+ 
+Duration of Therapy
+ 
+",,Intensive Care,,,,,,,
+ICU,MESH,Hospital units providing continuous surveillance and care to acutely ill patients.,Respiratory Care Units,ALTA,"Severe acute respiratory syndrome
+",,,,,,,
+Pandemia,IOBC,,"Pathogenic disease
+Pathologic Processes
+Epidemic Disease
+Pandemic disease",ALTA,"SARS-COVID2
+COVID-19
+WUHAN
+Severe acute respiratory syndrome Coronavirus 2
+SARS-COV2
+Coronavirus disease 2019
+Contact tracking",,,,,,,
+COVID-19 incidence rate,The COVID-19 Infectious Disease Ontology,Infectious disease incidence rate where the infectious disease is COVID-19.,"infectious disease lifetime prevalence
+COVID-19 lifetime prevalence
+COVID-19 mortality rate
+infectious disease prevalence
+infectious disease sporadicity
+COVID-19 sporadicity",ALTA,"Fatality rate covid
+",,,,,,,
+infection fatality rate,	NCIT,"A ratio of the number of deaths among people in the population who were genuinely infected based on positive tests, often from antibody surveys.",Survival rate,ALTA,"Infection Fatality Rate, Fatality Rate",,,,,,,
+"ELIZA,  Enzyme linked immunosorbent assay o",BAO,"Enzyme linked immunosorbent assay or ELISA is used to detect the presence of a particular protein, either an antigen or antibody in the sample such as a body fluid.","antigen down assay,
+ 
+chemiluminescence-linked immunosorbent assay
+ 
+competitive immunoassay
+ 
+enzyme-linked immunosorbent spot assay
+ 
+fluorescence-linked immunosorbent assay
+ 
+sandwich ELISA",Media Alta,"Assay Enzyme Linked Immunosorbent
+ELISA",,,,,,,
+Venous Thrombosis,,Venous Thrombosis,Thrombotic or Thromboembolic,ALTA,Venous thrombosis (disorder),,,,,,,
+Case Report,MESH,Clinical presentations that may be followed by evaluative studies that eventually lead to a diagnosis.,"Study Characteristics
+",ALTA,"Clinico-Pathological Conference
+Clinical Conference
+",,,,,,,
+Clinical Study,MESH,"A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans.","Study Characteristic
+Epidemiology study",ALTA,"Adaptive Clinical Trial
+Clinical Trial, Phase I
+Clinical Trial, Phase II
+Clinical Trial, Phase III
+Clinical Trial, Phase IV
+Controlled Clinical Trial
+Randomized Controlled Trial
+Epidemiologic Studies
+Clinical Trial
+Clinical Trial Protocol
+Observational Study
+ 
+",,,,,,,
+Consensus Development Conference,MESH,Official statements of the findings or recommendations expressing the outcome of a meeting convened to evaluate current thought and research on a subject of interest.,"Study Characteristics
+Epidemiology study",ALTA,"Epidemiologic Studies
+Evaluation Study
+Meta-Analysis
+Multicenter Study
+Scientific Integrity Review
+Systematic Review
+Twin Study
+Validation Study
+",,,,,,,
+exposure to COVID-19,COVID19,exposure to COVID-19,"-close exposure to 2019-nCoV (novel coronavirus) infection
+-exposure to coronavirus infection (Non specific)
+-exposure to Wuhan 2019-nCoV (novel coronavirus) infection",ALTA,"-Exposure to 2019 novel coronavirus infection
+-Exposure to 2019-nCoV (novel coronavirus) infection
+-Exposure to 2019-nCoV (Wuhan) infection",,,,,,,
+investigation COVID-19,COVID19,investigation COVID-19,"-2019-nCoV (novel coronavirus) serology
+-antibody to 2019-nCoV (novel coronavirus)
+-antigen of 2019-nCoV (novel coronavirus)
+-Detection of 2019-nCoV (novel coronavirus) using polymerase chain reaction technique
+-Measurement of 2019-nCoV (novel coronavirus) antibody
+-Measurement of 2019-nCoV (novel coronavirus) antigen
+-nasal swab taken
+-nose swab culture negative
+-nose swab culture positive
+-ribonucleic acid of 2019-nCoV (novel coronavirus) 
+-serotype 2019-nCoV (novel coronavirus)
+-Tested for 2019-nCoV (Wuhan) infection
+-throat swab culture negative
+-throat swab culture positive
+-throat swab taken",ALTA,,,,,,,,
+education for COVID-19,"COVID19
+",education for COVID-19,"-advice given about 2019-nCoV (novel coronavirus) by telephone
+-advice given about 2019-nCoV (novel coronavirus) infection
+-educated about 2019-nCoV (novel coronavirus) infection
+-education about cross infection prevention
+-education about isolation for infection control
+
+",ALTA,"
+-Educated about 2019 novel coronavirus infection
+
+",,,,,,,
+Health Risk Behaviors ,MESH,-Health Risk Behaviors ,,,,,,,,,,
+Mask,COVID-19,"A protective covering worn over the face, or an apparatus for administering anesthesia or oxygen through the nose or mouth.","N95 respirator
+not touching face
+Personal Protective Equipment
+Quarantine
+Self Care
+self-observation
+shelter-in-place order
+sneeze etiquette
+social distancing
+travel restriction",ALTA,"Self-care
+
+Selfcare",,,,,,,
+"
+
+Population characteristic",MESH,"Qualities and characterization of various types of populations within a social or geographic group, with emphasis on demography, health status, and socioeconomic factors.","Demography
+ ",ALTA,"Aftercare
+ 
+Patient Discharge
+ 
+Patient Handoff
+ 
+Patient Transfer
+ 
+Retention in Care
+ 
+Transition to Adult Care
+ 
+Transitional Care
+
+Narrative Medicine
+ 
+Patient Navigation
+
+Guideline Adherence
+
+Multimorbidity
+
+Precipitating Factors
+ 
+Protective Factors
+ 
+Risk Factors
+Clinical Decision-Making
+ 
+Delayed Diagnosis
+Clinical Decision-Making
+ 
+Delayed Diagnosis
+
+",,,,,,,
+Antibody-Dependent Enhancement,MESH,"Enhancement of viral infectivity caused by non-neutralizing antibodies. There are at least two mechanisms known to account for this: mediation by Fc receptors (RECEPTORS, FC) or by complement receptors (RECEPTORS, COMPLEMENT). Either the virus is complexed with antiviral IMMUNOGLOBULIN G and binds to Fc receptors, or virus is coated with antiviral IMMUNOGLOBULIN M and binds to complement receptors.",Antigen Presentation,ALTA,"Enhancement, Antibody-Dependent",,,,,,,
+Patient Isolation,COVID-19,"Prevention and Control, 
+ Hygiene","Hand Hygiene
+ 
+Hand Sanitizersfrequently washing hands with soap and water for 20 seconds
+ 
+cough etiquette
+ 
+COVID prevention and control
+ 
+flatten the curve",ALTA,"frequently washing hands with soap and water for 20 secondsIsolation
+ 
+Mask
+ 
+N95 respirator
+ 
+not touching face
+ 
+Personal Protective Equipment
+ 
+Quarantine
+ 
+Self Care
+ 
+self-observation
+ 
+shelter-in-place order
+ 
+sneeze etiquette
+ 
+social distancing
+ ",,,,,,,
+Primary Health Care,MESH,"
+
+	
+Activities and programs intended to assure or improve the quality of care in either a defined medical setting or a program. The concept includes the assessment or evaluation of the quality of care; identification of problems or shortcomings in the delivery of care; designing activities to overcome these deficiencies; and follow-up monitoring to ensure effectiveness of corrective steps.","Progressive Patient Care
+ 
+Crew Resource Management, Healthcare
+ 
+Critical Pathways
+
+Progressive Patient Care 
+
+Health Care Evaluation Mechanisms
+
+Epidemiologic Factors
+
+Causality 
+
+Diagnosis
+
+Epidemiologic Study Characteristics
+ 
+Evaluation Studies as Topic
+
+Meta-Analysis as Topic
+
+Sensitivity and Specificity
+
+Evaluation Studies as Topic
+
+Quality Assurance, Health Care",ALTA,"Aftercare
+ 
+Patient Discharge
+ 
+Patient Handoff
+ 
+Patient Transfer
+ 
+Retention in Care
+ 
+Transition to Adult Care
+ 
+Transitional Care
+
+Narrative Medicine
+ 
+Patient Navigation
+
+Guideline Adherence
+
+Multimorbidity
+
+Precipitating Factors
+ 
+Protective Factors
+
+ Clinical Decision-Making 
+
+
+Delayed Diagnosis
+
+Risk Factors
+
+Control Groups
+ 
+Cross-Over Studies
+ 
+Double-Blind Method
+ 
+Genome-Wide Association Study
+ 
+Lost to Follow-Up
+ 
+Matched-Pair Analysis
+
+Random Allocation
+
+Limit of Detection
+ 
+Predictive Value of Tests
+ 
+ROC Curve
+ 
+Signal-To-Noise Ratio
+
+Case-Control Studies
+ 
+Retrospective Studies
+
+Cohort Studies
+ 
+Follow-Up Studies
+ 
+SpacerLongitudinal Studies
+ 
+Prospective Studies
+ 
+Retrospective Studies
+Controlled Before-After Studies
+ 
+Cross-Sectional Studies
+ 
+Historically Controlled Study
+
+Controlled Before-After Studies
+ 
+Cross-Sectional Studies
+ 
+Historically Controlled Study
+",,,,,,,
+Business Rules,NCIT,"Scientific Advances and Accomplishments
+
+",Scientific Advances and Accomplishments,ALTA,"Recent Advances
+novel coronavirus
+Advances and Accomplishments",,,,,,,
+Syndrome ,COVID-19,"A syndrome that occurs after therapeutic infusion of antibodies into the blood and is characterized by nausea, headache, tachycardia, hypotension, rash, and shortness of breath. It is caused by the release of cytokines from the cells that are targeted by the antibodies. Most patients experience a mild to moderate reaction; however, the reaction may be severe and life-threatening.",,ALTA,,,,,,,,
+Immune and associated conditions NEC,	MEDDRA,Immune and associated conditions NEC,Immune and associated conditions NEC,ALTA,"Cytokine Release Syndrome 
+Cytokine release syndrome
+Cytokine storm",,,,,,,
+pharmacological action,MESH,pharmacological action,immunomodulatory effect,ALTA,pharmacological activity,,,,,,,
+Tissue Donors,MESH,Blood donors,Blood donors,ALTA,"Other blood donors
+	
+Blood Donations",,,,,,,
+Plasma ,MESH,Fresh Frozen Plasma,Plasma,ALTA,plasma ,,,,,,,
+IGG ,MESH,"An immunoglobulin isotype (subclass) that characterizes secondary immune responses. This isotype is further broken down into several smaller subclasses (IgG1, IgG2a, IgG2b, IgG3 in the mouse; IgG1-4 in the human), and each subclass is differentially synthesized and secreted into the serum upon differential immune stimuli","
+
+
+
+IG4
+",ALTA,"IgG
+
+Immunoglobulin G",,,,,,,
+Antiviral ,COVIDCRFRAPID,"        
+Antiviral
+Muscle aches (myalgia)",Corticosteroid,ALTA,,,,,,,,
+Viral Load,MESH,"The quantity of measurable virus in a body fluid. Change in viral load, measured in plasma, is sometimes used as a SURROGATE MARKER in disease progression.",Microbial Sensitivity Tests,ALTA,"Cell Transformation, Viral
+Inclusion Bodies, Viral
+Blood Culture
+Microbial Sensitivity Tests
+Virus Internalization
+Colony Count, Microbial",,,,,,,
+invasive mechanical ventilation,EFO,A mechanical ventilator provides tidal breaths under positive pressure to acutely ill patient via an endotracheal tube (ETT).,medical procedure,ALTA,invasive ventilation,,,,,,,
+"Antibodies, Neutralizing",MESH,"Antibodies that reduce or abolish some biological activity of a soluble antigen or infectious agent, usually a virus.","Antibodies
+Broadly Neutralizing Antibodies",ALTA,"Neutralizing Antibodies
+Neutralizing Antibody",,,,,,,
+"Patient status determination, critical",SNOMEDCT,"	
+Patient status determination, critical ","Finding related to general body function
+",ALTA,Finding related to therapeutic response,,,,,,,
